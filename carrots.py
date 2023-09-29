@@ -1,0 +1,1 @@
+n, p = map(int, input().split()); temp = [input() for i in range(n)]; print(p)
